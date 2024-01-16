@@ -18,5 +18,8 @@
     "cookie": "^0.6.0",
     "next-auth": "^4.24.5",
     "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.4"
   }
 }
